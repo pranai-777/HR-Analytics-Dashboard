@@ -276,6 +276,6 @@ Organizations generate large volumes of HR data every day, but extracting meanin
 
 ## ⭐ If you found this project helpful, please consider giving it a Star!
 
-### Made with ❤️ using Microsoft Power BI
+### Made with using Microsoft Power BI
 
 </div>
