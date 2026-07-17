@@ -204,12 +204,7 @@ HR-Analytics-Dashboard
 │   ├── banner.png
 │   ├── dashboard-home.png
 │   └── dashboard-action.png
-│
-├── dataset
-│   └── HR_Data.xlsx
-│
-└── documentation
-    └── Dashboard_Report.pdf
+
 ```
 
 ---
