@@ -268,7 +268,6 @@ Organizations generate large volumes of HR data every day, but extracting meanin
 
 💼 LinkedIn: **https://linkedin.com/in/sabbe-pranai-teja**
 
-💻 GitHub: **https://github.com/pranai-777**
 
 ---
 
